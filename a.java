@@ -1,3 +1,5 @@
-public static void a(android.content.Context, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String);
-// Path: Fabrizic/a.java
-public static void a(android.content hola
+public class a {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
